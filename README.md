@@ -1,0 +1,7 @@
+plastic collection
+sorting system
+shredding
+molding
+quality_inspection
+prototyping
+finalproduct
